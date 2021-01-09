@@ -295,7 +295,7 @@ def ttsMerge(
     fontSize=60,
     title_fontSize=100,
     font="Quadrat-Grotesk-W01-Black",
-    voice="en_uk",
+    voice="en-uk",
 ):
     title = submission.title
     text = submission.selftext.lower()
